@@ -507,7 +507,7 @@ input::placeholder {
 }
 
 .fotterContainer {
-    min-width: 1320px;
+    /* min-width: 1320px; */
     display: flex;
     flex-direction: column;
     padding: 0 300px;
